@@ -1,11 +1,11 @@
-About r-leafpm
-==============
+About r-leafpm-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-leafpm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-spatial/leafpm
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-leafpm-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of tools for interactive manipulation of (spatial) data  layers on leaflet web maps. Tools include editing of existing layers, creation  of new layers through drawing of shapes (points, lines, polygons), deletion  of shapes as well as cutting holes into existing shapes. Provides control over  options to e.g. prevent self-intersection of polygons and lines or to enable/disable  snapping to align shapes.
 
